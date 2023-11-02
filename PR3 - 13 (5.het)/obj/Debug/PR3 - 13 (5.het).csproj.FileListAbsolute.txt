@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\bin\Debug\PR3 - 13 (5.het).exe.config
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\bin\Debug\PR3 - 13 (5.het).exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\bin\Debug\PR3 - 13 (5.het).pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3 - 13 (5.het).csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3 - 13 (5.het).csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3___13__5.het_.Form1.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3___13__5.het_.Properties.Resources.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3 - 13 (5.het).csproj.GenerateResource.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3 - 13 (5.het).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3 - 13 (5.het).exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 13 (5.het)\obj\Debug\PR3 - 13 (5.het).pdb
