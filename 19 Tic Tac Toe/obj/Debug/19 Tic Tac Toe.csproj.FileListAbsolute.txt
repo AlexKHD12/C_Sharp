@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\bin\Debug\19 Tic Tac Toe.exe.config
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\bin\Debug\19 Tic Tac Toe.exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\bin\Debug\19 Tic Tac Toe.pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\19 Tic Tac Toe.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\19 Tic Tac Toe.csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\_19_Tic_Tac_Toe.Form1.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\_19_Tic_Tac_Toe.Properties.Resources.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\19 Tic Tac Toe.csproj.GenerateResource.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\19 Tic Tac Toe.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\19 Tic Tac Toe.exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\19 Tic Tac Toe\obj\Debug\19 Tic Tac Toe.pdb
