@@ -1,0 +1,11 @@
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\bin\Debug\PR3 - C_SHARP (2 projekt).exe.config
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\bin\Debug\PR3 - C_SHARP (2 projekt).exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\bin\Debug\PR3 - C_SHARP (2 projekt).pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3___C_SHARP__2_projekt_.Form1.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3___C_SHARP__2_projekt_.Properties.Resources.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3 - C_SHARP (2 projekt).csproj.GenerateResource.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3 - C_SHARP (2 projekt).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3 - C_SHARP (2 projekt).exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3 - C_SHARP (2 projekt).pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3 - C_SHARP (2 projekt).csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (2. het)\PR3 - C_SHARP (2 projekt)\obj\Debug\PR3 - C_SHARP (2 projekt).csproj.SuggestedBindingRedirects.cache
