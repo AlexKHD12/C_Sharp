@@ -1,0 +1,10 @@
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\bin\Debug\PR3___04__2.het_.exe.config
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\bin\Debug\PR3___04__2.het_.exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\bin\Debug\PR3___04__2.het_.pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\obj\Debug\PR3___04__2.het_.Form1.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\obj\Debug\PR3___04__2.het_.Properties.Resources.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\obj\Debug\PR3 - 04 (2. het).csproj.GenerateResource.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\obj\Debug\PR3 - 04 (2. het).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\obj\Debug\PR3___04__2.het_.exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\obj\Debug\PR3___04__2.het_.pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 04 (2. het)\obj\Debug\PR3 - 04 (2. het).csprojAssemblyReference.cache
