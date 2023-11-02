@@ -1,0 +1,22 @@
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\bin\Debug\PR3___01__1.het_.exe.config
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\bin\Debug\PR3___01__1.het_.exe
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\bin\Debug\PR3___01__1.het_.pdb
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.SuggestedBindingRedirects.cache
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.Form1.resources
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.Properties.Resources.resources
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.GenerateResource.cache
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.exe
+C:\Users\Student\source\repos\K Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\bin\Debug\PR3___01__1.het_.exe.config
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\bin\Debug\PR3___01__1.het_.exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\bin\Debug\PR3___01__1.het_.pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.Form1.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.Properties.Resources.resources
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.GenerateResource.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.exe
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3___01__1.het_.pdb
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\K. Alex\PR3 - C_SHARP\PR3 - 01 (1. het)\obj\Debug\PR3 - 01 (1. het).csproj.SuggestedBindingRedirects.cache
